@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "author": {
     "name": "JJ Johnson",
-    "email": "valedaemon@gmail.com",
+    "email": "valedaemon@gmail.com"
   },
   "bugs": {
     "url": "https://github.com/valedaemon/eslint-config-postmodern/issues"
@@ -14,7 +14,6 @@
     "eslint-plugin-import": "^2.2.0",
     "eslint-plugin-node": "^4.2.2",
     "eslint-plugin-promise": "^3.5.0",
-    "eslint-plugin-standard": "^3.0.0",
     "tape": "^4.6.3"
   },
   "homepage": "https://github.com/valedaemon/eslint-config-postmodern",
@@ -51,12 +50,11 @@
     "eslint": ">=3.19.0",
     "eslint-plugin-import": ">=2.2.0",
     "eslint-plugin-node": ">=4.2.2",
-    "eslint-plugin-promise": ">=3.5.0",
-    "eslint-plugin-standard": ">=3.0.0"
+    "eslint-plugin-promise": ">=3.5.0"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/valedaemon/eslint-config-standard.git"
+    "url": "git://github.com/valedaemon/eslint-config-postmodern.git"
   },
   "scripts": {
     "test": "tape test/*.js"

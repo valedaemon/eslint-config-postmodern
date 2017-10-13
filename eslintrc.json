@@ -16,7 +16,7 @@
   "plugins": [
     "import",
     "node",
-    "promise",
+    "promise"
   ],
 
   "globals": {

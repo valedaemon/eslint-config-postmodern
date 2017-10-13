@@ -1,14 +1,13 @@
 {
-  "name": "eslint-config-standard",
-  "description": "JavaScript Standard Style - ESLint Shareable Config",
-  "version": "10.2.1",
+  "name": "eslint-config-postmodern",
+  "description": "Javascript Postmodern Style - ESLint Shareable Config",
+  "version": "1.0.0",
   "author": {
-    "name": "Feross Aboukhadijeh",
-    "email": "feross@feross.org",
-    "url": "http://feross.org/"
+    "name": "JJ Johnson",
+    "email": "valedaemon@gmail.com",
   },
   "bugs": {
-    "url": "https://github.com/feross/eslint-config-standard/issues"
+    "url": "https://github.com/valedaemon/eslint-config-postmodern/issues"
   },
   "devDependencies": {
     "eslint": "^3.19.0",
@@ -18,9 +17,9 @@
     "eslint-plugin-standard": "^3.0.0",
     "tape": "^4.6.3"
   },
-  "homepage": "https://github.com/feross/eslint-config-standard",
+  "homepage": "https://github.com/valedaemon/eslint-config-postmodern",
   "keywords": [
-    "JavaScript Standard Style",
+    "Javascript Postmodern Style",
     "check",
     "checker",
     "code",
@@ -38,8 +37,9 @@
     "policy",
     "quality",
     "simple",
-    "standard",
-    "standard style",
+    "postmodern",
+    "postmodern style",
+    "anti-standard",
     "style",
     "style checker",
     "style linter",
@@ -56,7 +56,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/feross/eslint-config-standard.git"
+    "url": "git://github.com/valedaemon/eslint-config-standard.git"
   },
   "scripts": {
     "test": "tape test/*.js"

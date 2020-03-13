@@ -1,23 +1,24 @@
 {
-  "name": "eslint-config-postmodern",
+  "name": "sde-eslint-config",
   "description": "Javascript Postmodern Style - ESLint Shareable Config",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "author": {
     "name": "JJ Johnson",
-    "email": "valedaemon@gmail.com"
+    "email": "jjjohnson@collegeboard.org"
   },
   "bugs": {
     "url": "https://github.com/valedaemon/eslint-config-postmodern/issues"
   },
   "devDependencies": {
-    "eslint": "^3.19.0",
+    "eslint": "^5.16.0",
     "eslint-plugin-import": "^2.2.0",
     "eslint-plugin-node": "^4.2.2",
     "eslint-plugin-promise": "^3.5.0",
+    "js-yaml": ">=3.13.1",
     "lodash": ">=4.17.5",
     "tape": "^4.6.3"
   },
-  "homepage": "https://github.com/valedaemon/eslint-config-postmodern",
+  "homepage": "https://bitbucket.collegeboard.org/scm/cds/sde-eslint-config",
   "keywords": [
     "Javascript Postmodern Style",
     "check",

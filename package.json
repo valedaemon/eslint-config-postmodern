@@ -15,7 +15,7 @@
     "eslint-plugin-node": "^4.2.2",
     "eslint-plugin-promise": "^3.5.0",
     "js-yaml": ">=3.13.1",
-    "lodash": ">=4.17.5",
+    "lodash": "^4.17.15",
     "tape": "^4.6.3"
   },
   "homepage": "https://bitbucket.collegeboard.org/scm/cds/sde-eslint-config",

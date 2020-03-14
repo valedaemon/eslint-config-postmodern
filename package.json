@@ -1,7 +1,7 @@
 {
   "name": "sde-eslint-config",
   "description": "Javascript Postmodern Style - ESLint Shareable Config",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "author": {
     "name": "JJ Johnson",
     "email": "jjjohnson@collegeboard.org"

@@ -1,5 +1,5 @@
 {
-  "name": "sde-eslint-config",
+  "name": "eslint-config-postmodern",
   "description": "Javascript Postmodern Style - ESLint Shareable Config",
   "version": "1.0.4",
   "author": {
